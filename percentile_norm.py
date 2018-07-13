@@ -10,7 +10,7 @@ __reference__ = "bioRxiv DOI: https://doi.org/10.1101/165910"
 __license__ = "GPL"
 __version__ = "1.0.0-dev"
 __maintainer__ = "Sean Gibbons"
-__email__ = "sgibbons@mit.edu"
+__email__ = "sgibbons@systemsbiology.org"
 
 import numpy as np
 import scipy.stats as sp
